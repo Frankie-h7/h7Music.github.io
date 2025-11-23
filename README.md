@@ -13,7 +13,7 @@ Funziona sia online che offline (dove possibile) e può essere installata su qua
 - 📦 Convertibile in APK per Android
 
 ## 📁 Struttura del progetto
-Presente su GitHub Pages https://github.com/Frankie-h7/GiordanoMusic.github.io
+Presente su GitHub Pages https://github.com/Frankie-h7/h7Music.github.io
 
 ## 🛠️ Tecnologie utilizzate
 
@@ -58,4 +58,4 @@ Questa stessa descrizione è stata realizzata con "GiordanoGPT" (il bot non ha n
 
 ---
 
-**🟢 Provala ora:** [Vai al sito] https://frankie-h7.github.io/GiordanoMusic <---> https://frankie-h7.github.io/GiordanoMusic.github.io/
+**🟢 Provala ora:** [Vai al sito] <---> https://frankie-h7.github.io/h7Music.github.io/
