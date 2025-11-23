@@ -1,6 +1,6 @@
-# 🎵 GiordanoMusic - 𝐖𝐄𝐋𝐂𝐎𝐌𝐄
+# 🎵 h7Music - 𝐖𝐄𝐋𝐂𝐎𝐌𝐄
 
-**GiordanoMusic** è una Progressive Web App (PWA) pensata per offrire un'esperienza semplice, veloce e moderna per ascoltare musica in streaming. Con tutte le Playlist e brani del momento della schena Urban-Rap Italiana.
+**h7Music** è una Progressive Web App (PWA) pensata per offrire un'esperienza semplice, veloce e moderna per ascoltare musica in streaming. Con tutte le Playlist e brani del momento della schena Urban-Rap Italiana.
 Funziona sia online che offline (dove possibile) e può essere installata su qualsiasi dispositivo come un'app nativa.
 
 ## 🚀 Funzionalità principali
